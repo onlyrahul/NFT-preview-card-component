@@ -111,7 +111,7 @@ span:hover {
   margin-bottom: 0;
 }
 
-@media (max-width:376px) {
+@media (max-width:500px) {
   .contentbox {
     width: 79%;
   }

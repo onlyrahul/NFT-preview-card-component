@@ -45,7 +45,7 @@ body {
   border-radius: 12px;
   padding: 20px;
   margin: auto;
-  width: 22%;
+  width: 25%;
   box-shadow: 15px 20px 10px hsl(216, 32%, 9%), -15px 20px 10px hsl(216, 32%, 9%);
 }
 
@@ -113,7 +113,7 @@ span:hover {
 
 @media (min-width:100px) and (max-width:500px) {
   .contentbox {
-    width: 90%;
+    width: 80%;
   }
 }
 

@@ -111,14 +111,10 @@ span:hover {
   margin-bottom: 0;
 }
 
-@media (min-width:270px) and (max-width:500px) {
+@media (min-width:100px) and (max-width:500px) {
   .contentbox {
-    width: 95%;
+    width: 90%;
   }
 }
 
-@media (min-width:100px) and (max-width:270px) {
-  .contentbox {
-    width: 79%;
-  }
-}
+
